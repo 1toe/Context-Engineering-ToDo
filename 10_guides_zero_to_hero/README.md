@@ -24,12 +24,7 @@ Each guide is designed to be:
    cd Context-Engineering/10_guides_zero_to_hero
    ```
 
-2. **Set up your environment**
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Run the first guide**
+2. **Run the first guide**
    ```
    python 01_min_prompt.py
    ```
