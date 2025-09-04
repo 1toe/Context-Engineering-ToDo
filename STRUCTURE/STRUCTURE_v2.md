@@ -4,7 +4,7 @@ _A pragmatic, first-principles handbook for the next generation of LLM orchestra
 > **Why this repo exists**  
 > Prompt engineering = thinking about **what** you say.  
 > **Context engineering** = thinking about **everything else** the model sees.  
-> 
+>  
 > In our evolution from prompt engineering to context engineering to **field theory**:
 > - We began with discrete tokens and simple prompts
 > - We advanced to stateful context management and complex orchestration
