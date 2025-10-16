@@ -30,6 +30,25 @@
 
 </div>
 
+## 🚀 [Progressive Web App (PWA) Disponible](./pwa)
+
+**¡Explora Context Engineering en una PWA moderna y profesional!**
+
+- ✅ Instalable en móviles y desktop
+- ✅ Funciona offline completamente
+- ✅ Tema claro/oscuro
+- ✅ Búsqueda global
+- ✅ Navegación responsive
+- ✅ Renderizado de Markdown optimizado
+
+```bash
+cd pwa && npm install && npm run dev
+```
+
+Ver [documentación completa de la PWA](./pwa/README.md)
+
+---
+
 ## [Comprehensive Course Under Construction](https://github.com/davidkimai/Context-Engineering/tree/main/00_COURSE)
 
 > ### **[Context Engineering Survey-Review of 1400 Research Papers](https://arxiv.org/pdf/2507.13334)**
